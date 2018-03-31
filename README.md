@@ -1,6 +1,5 @@
 # Elly Yan`s personal web page
 
-## test
 
 Hi Elly,
 
